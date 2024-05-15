@@ -10,7 +10,7 @@
     "dev": "concurrently \"npm run start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "Techinfoyt",
+  "author": "Abhishek",
   "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^7.7.0",
